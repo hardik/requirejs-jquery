@@ -1,0 +1,25 @@
+{
+  "name": "requirejs-jquery",
+  "authors": [
+    "Hardik Jagda <hardik2633@gmail.com>"
+  ],
+  "description": "sample project to load jquery without requirejs and load it once",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "https://github.com/hardik/requirejs-jquery",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "^2.2.0",
+    "jquery": "^3.0.0"
+  },
+  "devDependencies": {
+    "jquery-ui": "^1.11.4"
+  }
+}
