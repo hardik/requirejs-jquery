@@ -8,4 +8,4 @@
 ## How to get started:
 1. `git clone git@github.com:hardik/requirejs-jquery.git`
 2. Run `bower install` in the root directory.
-3. Run the project by serving `index.html` by the server of your choice.
+3. Run the project by serving `index.html` with the server of your choice.
